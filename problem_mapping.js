@@ -20,7 +20,7 @@ problem_mapping = {
                 "total": 10000
             },
             "Java: Parity.java": {
-                "passed": 0,
+                "passed": 10000,
                 "total": 10000
             },
             "Python: parity.py": {
@@ -65,7 +65,7 @@ problem_mapping = {
                 "passed": 0,
                 "total": 10000
             },
-            "Python: closest_int_same_weight.py": { 
+            "Python: closest_int_same_weight.py": {
                 "passed": 0,
                 "total": 10000
             }
@@ -2372,7 +2372,7 @@ problem_mapping = {
                 "total": 103
             },
             "Java: TwoSum.java": {
-                "passed": 0,
+                "passed": 1005,
                 "total": 1005
             },
             "Python: minimum_points_covering_intervals.py": {
