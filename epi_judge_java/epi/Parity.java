@@ -9,7 +9,7 @@ public class Parity {
       parity += (x & 1);
       x >>=1;
     }
-    return (short) (parity%2);
+    return (short)(parity%2);
   }
 
   public static void main(String[] args) {
